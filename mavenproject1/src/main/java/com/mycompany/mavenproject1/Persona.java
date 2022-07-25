@@ -10,5 +10,5 @@ package com.mycompany.mavenproject1;
  * @author Alexis
  */
 public class Persona {
-    
+        
 }
